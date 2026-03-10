@@ -1,4 +1,5 @@
 **E-Commerce Sales & Profitability Analysis**
+
 Interactive Power BI dashboard analyzing e-commerce sales data to identify revenue trends, profitability patterns, and key business drivers.
 
 **Project Overview**
